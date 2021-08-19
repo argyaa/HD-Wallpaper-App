@@ -20,9 +20,6 @@ A new Wallpaper app that I've make using flutter
   <br/>
   <br/>
   <img src="/screenshots/4.jpg" width="500">
-  <br/>
-  <br/>
-  <img src="/screenshots/screenshot_5.png" width="700">
 </p>
 
 ## Contact me
